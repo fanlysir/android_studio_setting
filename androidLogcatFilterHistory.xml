@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="BookChapterHelper" />
+    <option name="mostRecentlyUsed" value="dunehttp" />
     <option name="nonFavorites">
       <list>
+        <option value="dunehttp" />
         <option value="BookChapterHelper" />
         <option value="fanlye" />
         <option value="fanlyeee" />
@@ -22,7 +23,6 @@
         <option value="mesh" />
         <option value="voicelog" />
         <option value="定时" />
-        <option value="fanlyeeee" />
       </list>
     </option>
   </component>
