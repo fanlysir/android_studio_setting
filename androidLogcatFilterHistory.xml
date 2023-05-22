@@ -1,9 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="level:error " />
+    <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
-        <option value="level:error " />
+        <option value="dunehttp" />
         <option value="BookChapterHelper" />
         <option value="fanlye" />
         <option value="fanlyeee" />
@@ -17,12 +17,12 @@
         <option value="信息流" />
         <option value="[GroMore]" />
         <option value="tag:MMBook" />
+        <option value="level:error " />
         <option value="tag:" />
         <option value="加载图片" />
         <option value="mesh" />
         <option value="voicelog" />
         <option value="定时" />
-        <option value="fanlyeeee" />
       </list>
     </option>
   </component>
