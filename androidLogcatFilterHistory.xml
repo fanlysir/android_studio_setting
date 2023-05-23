@@ -1,12 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="fanlyeee" />
     <option name="nonFavorites">
       <list>
+        <option value="fanlyeee" />
         <option value="dunehttp" />
         <option value="BookChapterHelper" />
         <option value="fanlye" />
-        <option value="fanlyeee" />
         <option value="GroMore" />
         <option value="gromo" />
         <option value="gdt_ad_mob" />
