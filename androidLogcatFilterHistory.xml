@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="fanlyeee" />
+    <option name="mostRecentlyUsed" value="fanly" />
     <option name="nonFavorites">
       <list>
+        <option value="fanly" />
         <option value="fanlyeee" />
         <option value=".m3u8" />
         <option value="fan" />
@@ -22,7 +23,6 @@
         <option value="level:error " />
         <option value="tag:" />
         <option value="加载图片" />
-        <option value="mesh" />
       </list>
     </option>
   </component>
