@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="level:error   " />
+    <option name="mostRecentlyUsed" value="level:error " />
     <option name="nonFavorites">
       <list>
+        <option value="level:error " />
         <option value="level:error   " />
         <option value="level:error  package:com.yeguo.book " />
         <option value="fanly" />
@@ -22,7 +23,6 @@
         <option value="信息流" />
         <option value="[GroMore]" />
         <option value="tag:MMBook" />
-        <option value="level:error " />
       </list>
     </option>
   </component>
