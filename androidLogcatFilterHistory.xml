@@ -1,16 +1,16 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value=".m3u8" />
     <option name="nonFavorites">
       <list>
-        <option value="Activity" />
+        <option value=".m3u8" />
         <option value="fanlyeee" />
+        <option value="Activity" />
         <option value="fan" />
         <option value="level:error " />
         <option value="level:error   " />
         <option value="level:error  package:com.yeguo.book " />
         <option value="fanly" />
-        <option value=".m3u8" />
         <option value="dunehttp" />
         <option value="BookChapterHelper" />
         <option value="fanlye" />
