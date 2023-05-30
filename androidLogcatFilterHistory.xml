@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="fanlyeee" />
+    <option name="mostRecentlyUsed" value="dune" />
     <option name="nonFavorites">
       <list>
+        <option value="dune" />
         <option value="fanlyeee" />
         <option value=".m3u8" />
         <option value="Activity" />
@@ -22,7 +23,6 @@
         <option value="GMBaseAdapter" />
         <option value="admob" />
         <option value="信息流" />
-        <option value="[GroMore]" />
       </list>
     </option>
   </component>
