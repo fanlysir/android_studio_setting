@@ -1,12 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="level:error " />
+    <option name="mostRecentlyUsed" value="fanlyeee" />
     <option name="nonFavorites">
       <list>
+        <option value="fanlyeee" />
         <option value="level:error " />
         <option value="inv" />
         <option value="dune" />
-        <option value="fanlyeee" />
         <option value=".m3u8" />
         <option value="Activity" />
         <option value="fan" />
