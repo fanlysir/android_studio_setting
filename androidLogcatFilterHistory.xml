@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="视频" />
     <option name="nonFavorites">
       <list>
+        <option value="视频" />
+        <option value="admob" />
         <option value="level:error " />
         <option value="fanlyeee" />
         <option value="inv" />
@@ -21,8 +23,6 @@
         <option value="gdt_ad_mob" />
         <option value="com.mmreader.book" />
         <option value="Gdt" />
-        <option value="GMBaseAdapter" />
-        <option value="admob" />
       </list>
     </option>
   </component>
