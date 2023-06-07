@@ -26,6 +26,10 @@
           <option name="url" value="https://gitee.com/fanlysir/loan.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitee.com/fanlysir/NewXiaoBaiBook.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Project/Android" />
