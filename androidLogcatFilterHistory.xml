@@ -1,14 +1,14 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="视频" />
+    <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
+        <option value="dune" />
         <option value="视频" />
         <option value="admob" />
         <option value="level:error " />
         <option value="fanlyeee" />
         <option value="inv" />
-        <option value="dune" />
         <option value=".m3u8" />
         <option value="Activity" />
         <option value="fan" />
