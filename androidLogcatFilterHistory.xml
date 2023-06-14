@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="http" />
     <option name="nonFavorites">
       <list>
+        <option value="http" />
+        <option value="dunehttp" />
         <option value="level:error " />
         <option value="fanlyeee" />
         <option value="tag:fanlyeee" />
@@ -16,13 +18,11 @@
         <option value="level:error   " />
         <option value="level:error  package:com.yeguo.book " />
         <option value="fanly" />
-        <option value="dunehttp" />
         <option value="BookChapterHelper" />
         <option value="fanlye" />
         <option value="GroMore" />
         <option value="gromo" />
         <option value="gdt_ad_mob" />
-        <option value="com.mmreader.book" />
       </list>
     </option>
   </component>
