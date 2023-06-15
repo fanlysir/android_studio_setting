@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="level:error " />
+    <option name="mostRecentlyUsed" value="LocationHelper" />
     <option name="nonFavorites">
       <list>
+        <option value="LocationHelper" />
         <option value="level:error " />
         <option value="tag:fanlyeee " />
         <option value="http" />
@@ -22,7 +23,6 @@
         <option value="BookChapterHelper" />
         <option value="fanlye" />
         <option value="GroMore" />
-        <option value="gromo" />
       </list>
     </option>
   </component>
