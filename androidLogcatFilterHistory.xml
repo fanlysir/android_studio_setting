@@ -1,11 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="http" />
+    <option name="mostRecentlyUsed" value="tag:fanlyeee " />
     <option name="nonFavorites">
       <list>
+        <option value="tag:fanlyeee " />
+        <option value="level:error " />
         <option value="http" />
         <option value="dunehttp" />
-        <option value="level:error " />
         <option value="fanlyeee" />
         <option value="tag:fanlyeee" />
         <option value="dune" />
@@ -22,7 +23,6 @@
         <option value="fanlye" />
         <option value="GroMore" />
         <option value="gromo" />
-        <option value="gdt_ad_mob" />
       </list>
     </option>
   </component>
