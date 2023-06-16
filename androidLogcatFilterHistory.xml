@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="LocationHelper" />
+    <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
+        <option value="dune" />
         <option value="LocationHelper" />
         <option value="level:error " />
         <option value="tag:fanlyeee " />
@@ -10,7 +11,6 @@
         <option value="dunehttp" />
         <option value="fanlyeee" />
         <option value="tag:fanlyeee" />
-        <option value="dune" />
         <option value="视频" />
         <option value="admob" />
         <option value="inv" />
