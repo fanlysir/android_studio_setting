@@ -1,10 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="tag" />
     <option name="nonFavorites">
       <list>
-        <option value="level:warn " />
+        <option value="tag" />
         <option value="level:error " />
+        <option value="level:warn " />
         <option value="LocationHelper" />
         <option value="fanlyeee" />
         <option value="tag:fanlyeee" />
@@ -22,7 +23,6 @@
         <option value="level:error   " />
         <option value="level:error  package:com.yeguo.book " />
         <option value="fanly" />
-        <option value="BookChapterHelper" />
       </list>
     </option>
   </component>
