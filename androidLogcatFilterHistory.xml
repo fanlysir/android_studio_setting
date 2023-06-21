@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="MainActivity" />
+    <option name="mostRecentlyUsed" value="dune" />
     <option name="nonFavorites">
       <list>
+        <option value="dune" />
         <option value="MainActivity" />
         <option value="fanlyeee" />
         <option value="tag" />
@@ -11,7 +12,6 @@
         <option value="LocationHelper" />
         <option value="tag:fanlyeee" />
         <option value="dunhttp" />
-        <option value="dune" />
         <option value="tag:fanlyeee " />
         <option value="http" />
         <option value="dunehttp" />
