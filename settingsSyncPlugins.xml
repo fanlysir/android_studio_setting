@@ -60,6 +60,17 @@
             </PluginData>
           </value>
         </entry>
+        <entry key="com.github.zhangchaojiong.RocketXPlugin.ide">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.platform" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
         <entry key="com.google.appindexing">
           <value>
             <PluginData>
