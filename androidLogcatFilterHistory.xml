@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="BookMeshChapterProviderImpl" />
+    <option name="mostRecentlyUsed" value="rxhttp" />
     <option name="nonFavorites">
       <list>
+        <option value="rxhttp" />
         <option value="BookMeshChapterProviderImpl" />
         <option value="BookMeshManager" />
         <option value="tag:meshbooklog " />
@@ -22,7 +23,6 @@
         <option value="GroMore" />
         <option value="gromo" />
         <option value="gdt_ad_mob" />
-        <option value="com.mmreader.book" />
       </list>
     </option>
   </component>
