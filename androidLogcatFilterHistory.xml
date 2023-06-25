@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="level:error " />
+    <option name="mostRecentlyUsed" value="dunehttp" />
     <option name="nonFavorites">
       <list>
+        <option value="dunehttp" />
         <option value="level:error " />
         <option value="rxhttp" />
         <option value="BookMeshChapterProviderImpl" />
@@ -17,7 +18,6 @@
         <option value="level:error   " />
         <option value="level:error  package:com.yeguo.book " />
         <option value="fanly" />
-        <option value="dunehttp" />
         <option value="BookChapterHelper" />
         <option value="fanlye" />
         <option value="GroMore" />
