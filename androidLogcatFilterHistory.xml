@@ -1,10 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="dunehttp" />
+    <option name="mostRecentlyUsed" value="fanlyeee" />
     <option name="nonFavorites">
       <list>
-        <option value="dunehttp" />
         <option value="fanlyeee" />
+        <option value="dunehttp" />
         <option value="level:error " />
         <option value="rxhttp" />
         <option value="BookMeshChapterProviderImpl" />
