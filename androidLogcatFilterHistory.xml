@@ -1,13 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="level:error " />
     <option name="nonFavorites">
       <list>
+        <option value="level:error " />
         <option value="fanlyeee" />
         <option value="com.sican.mycash1" />
         <option value="dune" />
         <option value="config" />
-        <option value="level:error " />
         <option value="dunehttp" />
         <option value="rxhttp" />
         <option value="BookMeshChapterProviderImpl" />
