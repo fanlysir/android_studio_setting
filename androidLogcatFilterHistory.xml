@@ -1,10 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="level:error " />
+    <option name="mostRecentlyUsed" value="fanlyeee" />
     <option name="nonFavorites">
       <list>
-        <option value="level:error " />
         <option value="fanlyeee" />
+        <option value="level:error " />
         <option value="com.sican.mycash1" />
         <option value="dune" />
         <option value="config" />
