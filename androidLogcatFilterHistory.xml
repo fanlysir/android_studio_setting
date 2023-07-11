@@ -4,6 +4,7 @@
     <option name="nonFavorites">
       <list>
         <option value="fanlyeee" />
+        <option value="ActivityPrivacyWeb" />
         <option value="voice" />
         <option value="admob" />
         <option value="location" />
@@ -22,7 +23,6 @@
         <option value=".m3u8" />
         <option value="Activity" />
         <option value="fan" />
-        <option value="level:error   " />
       </list>
     </option>
   </component>
