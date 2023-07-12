@@ -1,12 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="fanlyeee" />
+    <option name="mostRecentlyUsed" value="admob" />
     <option name="nonFavorites">
       <list>
+        <option value="admob" />
         <option value="fanlyeee" />
         <option value="ActivityPrivacyWeb" />
         <option value="voice" />
-        <option value="admob" />
         <option value="location" />
         <option value="LocationHelper" />
         <option value="level:error " />
