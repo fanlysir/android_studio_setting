@@ -1,10 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="level:error " />
     <option name="nonFavorites">
       <list>
-        <option value="tag:Koin" />
         <option value="level:error " />
+        <option value="tag:Koin" />
         <option value="admob" />
         <option value="fanlyeee" />
         <option value="ActivityPrivacyWeb" />
