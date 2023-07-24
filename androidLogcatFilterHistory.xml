@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="push" />
+    <option name="mostRecentlyUsed" value="voicelog" />
     <option name="nonFavorites">
       <list>
+        <option value="voicelog" />
         <option value="push" />
         <option value="level:error " />
         <option value="tag:Koin" />
@@ -22,7 +23,6 @@
         <option value="tag:meshbooklog " />
         <option value="package:mine " />
         <option value="http" />
-        <option value=".m3u8" />
       </list>
     </option>
   </component>
