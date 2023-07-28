@@ -1,12 +1,13 @@
 <application>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1689659089555" />
+    <option name="lastTrimTime" value="1690512391135" />
   </component>
   <component name="Translation.Settings">
     <option name="translator" value="MICROSOFT" />
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Configure component to receive clicks via input or accessibility &quot;click&quot; event. Add this modifier to the element to make it clickable within its bounds and show a default indication when it's pressed. This version has no MutableInteractionSource or Indication parameters, default indication from LocalIndication will be used. To specify MutableInteractionSource or Indication, use another overload. If you need to support double click or long click alongside the single click, consider using combinedClickable. Params: enabled - Controls the enabled state. When false, onClick, and this modifier will appear disabled for accessibility services onClickLabel - semantic accessibility label for the onClick action role - the type of user interface element. Accessibility services might use this to describe the element or do customizations onClick - will be called when user clicks on the element Samples: androidx.compose.foundation.samples.ClickableSample Unresolved" />
       <item value="This class is used to both accumulate and report information about UI &quot;jank&quot; (runtime performance problems) in an application. There are three major components at work in JankStats: Identifying Jank: This library uses internal heuristics to determine when jank has occurred, and uses that information to know when to issue jank reports so that developers have information on those problems to help analyze and fix the issues. Providing UI Context: To make the jank reports more useful and actionable, the system provides a mechanism to help track the current state of the UI and user. This information is provided whenever reports are logged, so that developers can understand not only when problems occurred, but what the user was doing at the time, to help identify problem areas in the application that can then be addressed. Some of this state is provided automatically, and internally, by various AndroidX libraries. But developers are encouraged to provide their own app-specific state as well. See [PerformanceMetricsState] for more information on logging this state information. Reporting Results: On every frame, the JankStats client is notified via a listener with information about that frame, including how long the frame took to complete, whether it was considered jank, and what the UI context was during that frame. Clients are encouraged to aggregate and upload the data as they see fit for analysis that can help debug overall performance problems. Note that the behavior of JankStats varies according to API level, because it is dependent upon underlying capabilities in the platform to determine frame timing information. Below API level 16, JankStats does nothing, because there is no way to derive dependable frame timing data. Starting at API level 16, JankStats uses rough frame timing information that can at least provide estimates of how long frames should have taken, compared to how long they actually took. Starting with API level 24, frame durations are more dependable, using platform timing APIs that are available in that release. And starting in API level 31, there is even more underlying platform information which helps provide more accurate timing still. On all of these releases (starting with API level 16), the base functionality of JankStats should at least provide useful information about performance problems, along with the state of the application during those frames, but the timing data will be necessarily more accurate for later releases, as described above." />
       <item value="considerable" />
       <item value="This API is experimental and is likely to change in the future." />
@@ -16,8 +17,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="6" />
-        <entry key="ENGLISH" value="7" />
+        <entry key="CHINESE" value="7" />
+        <entry key="ENGLISH" value="8" />
       </map>
     </option>
   </component>
