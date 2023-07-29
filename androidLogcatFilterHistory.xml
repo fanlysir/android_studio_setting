@@ -1,15 +1,18 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="voicelog" />
     <option name="nonFavorites">
       <list>
+        <option value="voicelog" />
+        <option value="push" />
+        <option value="level:error " />
+        <option value="tag:Koin" />
         <option value="admob" />
         <option value="fanlyeee" />
         <option value="ActivityPrivacyWeb" />
         <option value="voice" />
         <option value="location" />
         <option value="LocationHelper" />
-        <option value="level:error " />
         <option value="com.sican.mycash1" />
         <option value="dune" />
         <option value="config" />
@@ -20,9 +23,6 @@
         <option value="tag:meshbooklog " />
         <option value="package:mine " />
         <option value="http" />
-        <option value=".m3u8" />
-        <option value="Activity" />
-        <option value="fan" />
       </list>
     </option>
   </component>
